@@ -1,7 +1,7 @@
 from typing import Optional, Sequence, Dict
 from experiments.methods import BaseMethod, BaseDataset
-from src.utils.registry import registry
-from src import ImageTxtSample, _OutputType
+from experiments.utils import registry
+from experiments import ImageTxtSample, _OutputType
 from typing import Tuple, Callable
 import re
 import warnings
