@@ -1,0 +1,14 @@
+transformers==4.33
+accelerate==0.34.2
+huggingface-hub==0.25.1
+pandas
+scipy
+einops==0.8.0
+ipywidgets==8.1.5
+omegaconf==2.3.0
+openai==1.53
+scikit-learn==1.5.2
+diffusers==0.31.0
+open_clip_torch==2.29.0
+sentencepiece==0.2.0
+protobuf==5.29.0
